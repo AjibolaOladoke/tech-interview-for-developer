@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the tech-interview-for-
 
 ## Images
 
-[![tech-interview-for-developer](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![tech-interview-for-developer](images/preview.png)](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
 
 ## ⏩ ⏩ ⏩  웹 사이트에서 편하게 공부하세요! Click!  ⏪ ⏪ ⏪
 
@@ -92,7 +92,7 @@ A practical reference entry for product and engineering: the tech-interview-for-
   - IPC(Inter Process Communication).md)
   - CPU 스케줄링
   - 데드락(DeadLock)
-  - [Race Condition]( https://www.swifttechco.com)
+  - [Race Condition]( https://github.com/Swift-Tech-Co/tech-interview-for-developer)
   - 세마포어(Semaphore) & 뮤텍스(Mutex)
   - 페이징 & 세그먼테이션 (PDF)
   - 페이지 교체 알고리즘
@@ -174,7 +174,7 @@ A practical reference entry for product and engineering: the tech-interview-for-
 
   - [[C] C언어 컴파일 과정](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bc%5D%20C%EC%96%B8%EC%96%B4%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
   - [[C] 구조체 메모리 크기 계산](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EA%B5%AC%EC%A1%B0%EC%B2%B4%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%81%AC%EA%B8%B0%20%EA%B3%84%EC%82%B0.md)
-  - [[C] 포인터(Pointer)](https://www.swifttechco.com)
+  - [[C] 포인터(Pointer)](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
   - [[C] 동적할당](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BC%5D%20%EB%8F%99%EC%A0%81%ED%95%A0%EB%8B%B9.md)
 
 - ### C++
@@ -188,12 +188,12 @@ A practical reference entry for product and engineering: the tech-interview-for-
 
   - [[Java] Java 컴파일 과정](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%EA%B3%BC%EC%A0%95.md)
   - [[Java] Call by Value vs Call by Reference](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Call%20by%20value%EC%99%80%20Call%20by%20reference.md)
-  - [[Java] String & StringBuffer & StringBuilder](https://www.swifttechco.com)
+  - [[Java] String & StringBuffer & StringBuilder](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
   - [[Java] 자바 가상 머신(Java Virtual Machine)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20%EC%9E%90%EB%B0%94%20%EA%B0%80%EC%83%81%20%EB%A8%B8%EC%8B%A0(Java%20Virtual%20Machine).md)
   - [[Java] Casting(업캐스팅 & 다운캐스팅)](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Casting(%EC%97%85%EC%BA%90%EC%8A%A4%ED%8C%85%20%26%20%EB%8B%A4%EC%9A%B4%EC%BA%90%EC%8A%A4%ED%8C%85).md)
   - [[Java] 오토 박싱 & 오토언박싱](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5BJava%5D%20Auto%20Boxing%20%26%20Unboxing.md)
   - [[Java] Thread 활용](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Language/%5Bjava%5D%20Java%EC%97%90%EC%84%9C%EC%9D%98%20Thread.md)
-  - [[Java] 고유 락(Intrinsic Lock)](https://www.swifttechco.com)
+  - [[Java] 고유 락(Intrinsic Lock)](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
   - [[Java] 문자열 클래스](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%81%B4%EB%9E%98%EC%8A%A4.md#%EB%AC%B8%EC%9E%90%EC%97%B4-%ED%81%B4%EB%9E%98%EC%8A%A4) 
   - [[Java] Garbage Collection](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Garbage%20Collection.md#garbage-collection) 
   - [[Java] Promotion & Casting](https://github.com/GimunLee/tech-refrigerator/blob/master/Language/JAVA/Promotion%20%26%20Casting.md#promotion--casting)
@@ -281,7 +281,6 @@ A practical reference entry for product and engineering: the tech-interview-for-
   - [[Travis CI] 프로젝트 연동하기](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Web/DevOps/%5BTravis%20CI%5D%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0.md)
   - 시스템 규모 확장
 
-
 <br>
 
 ## 📌 Linux
@@ -333,11 +332,11 @@ A practical reference entry for product and engineering: the tech-interview-for-
 <br>
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=small)](https://www.swifttechco.com)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgyoogle%2Ftech-interview-for-developer.svg?type=small)](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
 
 <br>
 
-[](https://www.swifttechco.com)
+[](https://github.com/Swift-Tech-Co/tech-interview-for-developer)
 
 ---
 
@@ -353,13 +352,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/tech-interview-for-developer
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
