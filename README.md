@@ -382,3 +382,11 @@ Compiled and maintained from upstream [gyoogle/tech-interview-for-developer](htt
 ---
 
 Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
+
+## Sources
+
+Compiled and maintained from upstream [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
